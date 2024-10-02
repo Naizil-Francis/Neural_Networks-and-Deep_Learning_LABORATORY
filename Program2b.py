@@ -1,3 +1,7 @@
+"""
+2b.  Identify the problem with single unit Perceptron. Classify using Or, And and Xor data and analyze the result.
+"""
+
 import numpy as np
 from sklearn.datasets import make_classification
 from sklearn.linear_model import Perceptron
