@@ -1,3 +1,7 @@
+"""
+Write a program to demonstrate the working of different activation functions like Sigmoid, Tanh, RELU and softmax to train neural network.
+"""
+
 import tensorflow as tf
 from tensorflow.keras.datasets import mnist
 from tensorflow.keras.models import Sequential
