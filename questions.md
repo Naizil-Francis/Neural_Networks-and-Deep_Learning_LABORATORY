@@ -5,11 +5,10 @@
 ### 1.  Write a program to demonstrate the working of different activation functions like Sigmoid, Tanh, RELU and softmax to train neural network.
 
 ---
-
-### 2.  
-#### a.  Design a single unit perceptron for classification of a linearly separable binary dataset without using pre-defined models. Use the Perceptron() from sklearn.
+ 
+### 2a.  Design a single unit perceptron for classification of a linearly separable binary dataset without using pre-defined models. Use the Perceptron() from sklearn.
     
-#### b.  Identify the problem with single unit Perceptron. Classify using Or, And and Xor data and analyze the result.
+### 2b.  Identify the problem with single unit Perceptron. Classify using Or, And and Xor data and analyze the result.
 
 ---
 
