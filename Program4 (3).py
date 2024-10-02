@@ -1,3 +1,14 @@
+"""
+4. Design and implement a CNN model (with 4+ layers of convolutions) to classify multi category image datasets. Use the concept of regularization and dropout while designing the CNN model. Use the Fashion MNIST datasets. Record the Training accuracy and Test accuracy corresponding to the following architectures:
+    
+    a. Base Model
+    
+    b. Model with L1 Regularization
+    
+    c. Model with L2 Regularization
+    
+    d. Model with Dropout
+"""
 import tensorflow as tf
 from tensorflow.keras import layers, models
 from tensorflow.keras.datasets import fashion_mnist
