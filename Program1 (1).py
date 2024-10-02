@@ -1,3 +1,7 @@
+"""
+Write a program to demonstrate the working of different activation functions like Sigmoid, Tanh, RELU and softmax to train neural network.
+"""
+
 import numpy as np
 import matplotlib.pyplot as plt
 
