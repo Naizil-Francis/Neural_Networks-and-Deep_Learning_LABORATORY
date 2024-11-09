@@ -1,3 +1,7 @@
+""" 
+7. Implement the standard VGG-16 & 19 CNN architecture model to classify multi category image dataset and check the accuracy.
+
+"""
 import tensorflow as tf
 from tensorflow.keras import layers, models
 from tensorflow.keras.datasets import cifar10
